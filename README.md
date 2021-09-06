@@ -25,4 +25,6 @@ python buaa_wifi.py
 
 ## 适用场景
 
-树莓派等开发板开机直连北航wifi
+1.树莓派等开发板开机直连北航wifi
+
+2.支持Shell的路由器直连北航wifi
