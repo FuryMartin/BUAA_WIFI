@@ -4,6 +4,8 @@
 
 项目Fork自：https://github.com/huxiaofan1223/jxnu_srun
 
+原理请参考：https://blog.csdn.net/qq_41797946/article/details/89417722
+
 我修改了相关url以适配北航wifi。
 
 特别感谢原作者 [@huxiaofan1223](https://github.com/huxiaofan1223) 。
