@@ -1,0 +1,2 @@
+set ws=wscript.createobject("wscript.shell")
+ws.run "wifi.bat /start",0
