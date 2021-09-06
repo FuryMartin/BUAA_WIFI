@@ -6,7 +6,7 @@
 
 我修改了相关url以适配北航wifi。
 
-特别感谢原作者。
+特别感谢原作者 [@huxiaofan1223](https://github.com/huxiaofan1223) 。
 
 ## 如何使用
 
