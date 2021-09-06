@@ -51,4 +51,4 @@ python buaa_wifi.py
 
 2.支持Shell的路由器直连北航wifi
 
-3.因网卡问题在锁住桌面后wifi会发生断连情况的电脑的wifi自动连接
+3.部分网卡型号的电脑在锁屏后会断连wifi，此脚本可以自动重新连接wifi
