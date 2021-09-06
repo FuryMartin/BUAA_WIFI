@@ -3,7 +3,11 @@
 ## 说明
 
 项目Fork自：https://github.com/huxiaofan1223/jxnu_srun
-***
+
+我修改了相关url以适配北航wifi。
+
+特别感谢原作者。
+
 ## 如何使用
 
 1.下载所有文件并解压，进入buaa_wifi所在目录
