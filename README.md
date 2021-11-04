@@ -16,12 +16,15 @@
 
 2.打开`buaa_wifi.py`,分别修改第92、93行引号内的内容为你的账号和密码
 
-3.打开cmd，进入当前目录，执行以下代码
-
+3.运行
+有两种方式可选。
+(1)打开cmd，进入当前目录，执行以下代码
 ~~~
 pip install -r requirements.txt
 python buaa_wifi.py
 ~~~
+(2)直接双击wifi.bat
+
 
 执行完毕，校园网已成功连接
 
